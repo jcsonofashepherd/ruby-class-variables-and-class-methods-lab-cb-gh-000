@@ -1,4 +1,3 @@
-end
 require "spec_helper"
 
 describe "Song" do
